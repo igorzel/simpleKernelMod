@@ -1,4 +1,4 @@
-algoKernelMod
+simpleKernelMod
 =============
 
 Simple Linux kernel module
